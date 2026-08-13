@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T17:24:38Z",
+            "last_commit": "2026-08-13T18:35:01Z",
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 12963
+            "stars": 12970
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-07-21T19:34:34Z",
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9382
+            "stars": 9384
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-12T14:02:55Z",
+            "last_commit": "2026-08-13T18:33:18Z",
             "owner": "TandoorRecipes",
             "repo": "recipes",
             "stars": 8523
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-12T18:47:21Z",
+            "last_commit": "2026-08-13T18:02:35Z",
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-server",
             "stars": 1100
@@ -109,7 +109,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-11T11:10:27Z",
+            "last_commit": "2026-08-13T10:14:19Z",
             "owner": "Growstuff",
             "repo": "growstuff",
             "stars": 473
@@ -140,7 +140,7 @@
             "last_commit": "2026-08-11T18:30:58Z",
             "owner": "reaper47",
             "repo": "recipya",
-            "stars": 408
+            "stars": 409
           }
         },
         {
@@ -334,7 +334,7 @@
             "last_commit": "2026-08-09T06:37:38Z",
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 101759
+            "stars": 101774
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2025-12-28T14:27:57Z",
             "owner": "hendricius",
             "repo": "the-bread-code",
-            "stars": 4138
+            "stars": 4139
           }
         },
         {
@@ -376,7 +376,7 @@
             "last_commit": "2026-06-05T12:03:31Z",
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3611
+            "stars": 3612
           }
         },
         {
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:12:11.970Z",
+    "last_updated": "2026-08-13T18:40:20.045Z",
     "original_repository": "jzarca01/awesome-food",
     "original_repository_sha": "7793028a0cb3e55aabeaac4ef120a9dd015cb618",
     "enhanced_repository": "enhansome/enhansome-food",
