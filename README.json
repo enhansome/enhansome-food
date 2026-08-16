@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T00:38:58Z",
+            "last_commit": "2026-08-16T16:04:30Z",
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 12983
+            "stars": 12994
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-07-21T19:34:34Z",
+            "last_commit": "2026-08-16T17:57:08Z",
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9389
+            "stars": 9392
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-14T20:11:05Z",
+            "last_commit": "2026-08-16T15:24:50Z",
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8530
+            "stars": 8533
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-15T15:39:41Z",
+            "last_commit": "2026-08-16T16:39:16Z",
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-server",
-            "stars": 1104
+            "stars": 1105
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-14T14:21:14Z",
             "owner": "nextcloud",
             "repo": "cookbook",
-            "stars": 633
+            "stars": 635
           }
         },
         {
@@ -334,7 +334,7 @@
             "last_commit": "2026-08-09T06:37:38Z",
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 101825
+            "stars": 101849
           }
         },
         {
@@ -910,7 +910,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:59:35.244Z",
+    "last_updated": "2026-08-16T17:58:39.763Z",
     "original_repository": "jzarca01/awesome-food",
     "original_repository_sha": "7793028a0cb3e55aabeaac4ef120a9dd015cb618",
     "enhanced_repository": "enhansome/enhansome-food",
