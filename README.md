@@ -23,11 +23,11 @@
 
 ## Food-related projects
 
-* [Mealie](https://github.com/hay-kot/mealie) ⭐ 13,023 | 🐛 233 | 🌐 Python | 📅 2026-08-19 - Mealie is a self hosted recipe manager and meal planner.
-* [grocy](https://github.com/grocy/grocy) ⭐ 9,393 | 🐛 134 | 🌐 JavaScript | 📅 2026-08-16 - Web-based self-hosted groceries and household management solution with recipe and meal planning features.
-* [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) ⭐ 8,536 | 🐛 414 | 🌐 HTML | 📅 2026-08-18 - Self-hosted recipe manager with meal planning, shopping lists, and cookbook organization.
+* [Mealie](https://github.com/hay-kot/mealie) ⭐ 13,027 | 🐛 229 | 🌐 Python | 📅 2026-08-19 - Mealie is a self hosted recipe manager and meal planner.
+* [grocy](https://github.com/grocy/grocy) ⭐ 9,394 | 🐛 134 | 🌐 JavaScript | 📅 2026-08-16 - Web-based self-hosted groceries and household management solution with recipe and meal planning features.
+* [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) ⭐ 8,538 | 🐛 414 | 🌐 HTML | 📅 2026-08-18 - Self-hosted recipe manager with meal planning, shopping lists, and cookbook organization.
 * [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server) ⭐ 1,105 | 🐛 1,780 | 🌐 HTML | 📅 2026-08-19 - A collaborative, free and open database of food products from around the world.
-* [Nextcloud Cookbook](https://github.com/nextcloud/cookbook) ⭐ 635 | 🐛 312 | 🌐 HTML | 📅 2026-08-19 - Recipe management app for the Nextcloud platform.
+* [Nextcloud Cookbook](https://github.com/nextcloud/cookbook) ⭐ 636 | 🐛 313 | 🌐 HTML | 📅 2026-08-19 - Recipe management app for the Nextcloud platform.
 * [Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) ⭐ 589 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-12-08 - DeepChef : Classification of Cooking Dishes with Machine Learning.
 * [is-vegan](https://github.com/hmontazeri/is-vegan) ⭐ 490 | 🐛 9 | 🌐 TypeScript | 📅 2025-11-18 - Is-Vegan helps you to find out which food ingredients are vegan / non-vegan.
 * [Growstuff](https://github.com/Growstuff/growstuff) ⭐ 473 | 🐛 120 | 🌐 Ruby | 📅 2026-08-19 - Open data project for small-scale food growers.
@@ -49,8 +49,8 @@
 
 ## Cookbooks
 
-* [HowToCook](https://github.com/Anduin2017/HowToCook) ⭐ 101,892 | 🐛 466 | 📅 2026-08-17 - A programmer's guide to cooking at home with step-by-step recipes (Simplified Chinese).
-* [the-bread-code](https://github.com/hendricius/the-bread-code) ⭐ 4,140 | 🐛 9 | 🌐 Shell | 📅 2025-12-28 - Learn how to master the art of baking the programmer way.
+* [HowToCook](https://github.com/Anduin2017/HowToCook) ⭐ 101,895 | 🐛 466 | 📅 2026-08-17 - A programmer's guide to cooking at home with step-by-step recipes (Simplified Chinese).
+* [the-bread-code](https://github.com/hendricius/the-bread-code) ⭐ 4,141 | 🐛 9 | 🌐 Shell | 📅 2025-12-28 - Learn how to master the art of baking the programmer way.
 * [pizza-dough](https://github.com/hendricius/pizza-dough) ⭐ 3,657 | 🐛 4 | 🌐 HTML | 📅 2026-01-13 - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 * [the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) ⭐ 3,613 | 🐛 23 | 🌐 TeX | 📅 2026-06-05 - Open source book dedicated to helping you make the best possible sourdough bread at home.
 * [El Fuego Viviente Chili Open Sauce](https://github.com/aweijnitz/recipe-el_fuego_viviente) ⭐ 1,739 | 🐛 8 | 📅 2022-08-03 - Fermented Chili "Open Sauce".
