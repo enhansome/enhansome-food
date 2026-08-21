@@ -12,10 +12,10 @@
             "archived": false,
             "id": 319167362,
             "language": "Python",
-            "last_commit": "2026-08-20T18:11:54Z",
+            "last_commit": "2026-08-21T10:36:29Z",
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13034
+            "stars": 13039
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-20T17:08:11Z",
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8539
+            "stars": 8545
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 14111770,
             "language": "HTML",
-            "last_commit": "2026-08-20T17:42:11Z",
+            "last_commit": "2026-08-21T17:17:27Z",
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-server",
-            "stars": 1106
+            "stars": 1110
           }
         },
         {
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 5337437,
             "language": "Ruby",
-            "last_commit": "2026-08-20T07:05:40Z",
+            "last_commit": "2026-08-21T07:03:26Z",
             "owner": "Growstuff",
             "repo": "growstuff",
             "stars": 473
@@ -351,7 +351,7 @@
             "last_commit": "2026-08-20T07:14:07Z",
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 101912
+            "stars": 101923
           }
         },
         {
@@ -411,7 +411,7 @@
             "last_commit": "2022-08-03T14:16:17Z",
             "owner": "aweijnitz",
             "repo": "recipe-el_fuego_viviente",
-            "stars": 1739
+            "stars": 1738
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2024-04-20T07:13:14Z",
             "owner": "dansinker",
             "repo": "tacofancy",
-            "stars": 1299
+            "stars": 1300
           }
         },
         {
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T18:13:55.511Z",
+    "last_updated": "2026-08-21T18:13:34.637Z",
     "original_repository": "jzarca01/awesome-food",
     "original_repository_id": 152397082,
     "original_repository_sha": "7793028a0cb3e55aabeaac4ef120a9dd015cb618",
