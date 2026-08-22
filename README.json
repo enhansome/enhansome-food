@@ -12,10 +12,10 @@
             "archived": false,
             "id": 319167362,
             "language": "Python",
-            "last_commit": "2026-08-21T10:36:29Z",
+            "last_commit": "2026-08-22T15:42:29Z",
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13039
+            "stars": 13046
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-20T17:08:11Z",
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8545
+            "stars": 8548
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 14111770,
             "language": "HTML",
-            "last_commit": "2026-08-21T17:17:27Z",
+            "last_commit": "2026-08-22T15:06:03Z",
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-server",
             "stars": 1110
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 5337437,
             "language": "Ruby",
-            "last_commit": "2026-08-21T07:03:26Z",
+            "last_commit": "2026-08-22T15:13:52Z",
             "owner": "Growstuff",
             "repo": "growstuff",
             "stars": 473
@@ -351,7 +351,7 @@
             "last_commit": "2026-08-20T07:14:07Z",
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 101923
+            "stars": 101935
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2025-12-28T14:27:57Z",
             "owner": "hendricius",
             "repo": "the-bread-code",
-            "stars": 4141
+            "stars": 4142
           }
         },
         {
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T18:13:34.637Z",
+    "last_updated": "2026-08-22T17:59:32.981Z",
     "original_repository": "jzarca01/awesome-food",
     "original_repository_id": 152397082,
     "original_repository_sha": "7793028a0cb3e55aabeaac4ef120a9dd015cb618",
