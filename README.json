@@ -12,10 +12,10 @@
             "archived": false,
             "id": 319167362,
             "language": "Python",
-            "last_commit": "2026-08-22T15:42:29Z",
+            "last_commit": "2026-08-23T13:55:58Z",
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13046
+            "stars": 13051
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-16T18:24:20Z",
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9399
+            "stars": 9407
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-20T17:08:11Z",
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8548
+            "stars": 8552
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 14111770,
             "language": "HTML",
-            "last_commit": "2026-08-22T15:06:03Z",
+            "last_commit": "2026-08-23T17:52:28Z",
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-server",
-            "stars": 1110
+            "stars": 1113
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 187186203,
             "language": "HTML",
-            "last_commit": "2026-08-20T01:10:00Z",
+            "last_commit": "2026-08-23T00:42:28Z",
             "owner": "nextcloud",
             "repo": "cookbook",
             "stars": 637
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 5337437,
             "language": "Ruby",
-            "last_commit": "2026-08-22T15:13:52Z",
+            "last_commit": "2026-08-23T12:56:46Z",
             "owner": "Growstuff",
             "repo": "growstuff",
             "stars": 473
@@ -207,7 +207,7 @@
             "archived": false,
             "id": 398542590,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T02:06:18Z",
+            "last_commit": "2026-08-23T11:08:18Z",
             "owner": "frontendnetwork",
             "repo": "veganify",
             "stars": 66
@@ -351,7 +351,7 @@
             "last_commit": "2026-08-20T07:14:07Z",
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 101935
+            "stars": 101942
           }
         },
         {
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T17:59:32.981Z",
+    "last_updated": "2026-08-23T17:58:50.833Z",
     "original_repository": "jzarca01/awesome-food",
     "original_repository_id": 152397082,
     "original_repository_sha": "7793028a0cb3e55aabeaac4ef120a9dd015cb618",
