@@ -12,10 +12,10 @@
             "archived": false,
             "id": 319167362,
             "language": "Python",
-            "last_commit": "2026-08-23T13:55:58Z",
+            "last_commit": "2026-08-24T13:00:00Z",
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13051
+            "stars": 13057
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-16T18:24:20Z",
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9407
+            "stars": 9413
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 221546437,
             "language": "HTML",
-            "last_commit": "2026-08-20T17:08:11Z",
+            "last_commit": "2026-08-24T07:45:49Z",
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8552
+            "stars": 8555
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 14111770,
             "language": "HTML",
-            "last_commit": "2026-08-23T17:52:28Z",
+            "last_commit": "2026-08-24T14:10:03Z",
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-server",
             "stars": 1113
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 187186203,
             "language": "HTML",
-            "last_commit": "2026-08-23T00:42:28Z",
+            "last_commit": "2026-08-24T14:05:02Z",
             "owner": "nextcloud",
             "repo": "cookbook",
             "stars": 637
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 5337437,
             "language": "Ruby",
-            "last_commit": "2026-08-23T12:56:46Z",
+            "last_commit": "2026-08-24T12:03:57Z",
             "owner": "Growstuff",
             "repo": "growstuff",
             "stars": 473
@@ -351,7 +351,7 @@
             "last_commit": "2026-08-20T07:14:07Z",
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 101942
+            "stars": 101949
           }
         },
         {
@@ -393,10 +393,10 @@
             "archived": false,
             "id": 450634273,
             "language": "TeX",
-            "last_commit": "2026-06-05T12:03:31Z",
+            "last_commit": "2026-08-24T09:24:43Z",
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3613
+            "stars": 3614
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2024-04-20T07:13:14Z",
             "owner": "dansinker",
             "repo": "tacofancy",
-            "stars": 1300
+            "stars": 1301
           }
         },
         {
@@ -476,6 +476,21 @@
         },
         {
           "node_type": "item",
+          "title": "food-recipes",
+          "description": "Honest-to-goodness \"real food\" recipes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4642826,
+            "language": "Elixir",
+            "last_commit": "2021-12-19T23:55:34Z",
+            "owner": "obfuscurity",
+            "repo": "food-recipes",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
           "title": "bread",
           "description": "Notes on bread baking.",
           "children": [],
@@ -487,21 +502,6 @@
             "owner": "dgryski",
             "repo": "bread",
             "stars": 58
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "food-recipes",
-          "description": "Honest-to-goodness \"real food\" recipes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 4642826,
-            "language": "Elixir",
-            "last_commit": "2021-12-19T23:55:34Z",
-            "owner": "obfuscurity",
-            "repo": "food-recipes",
-            "stars": 57
           }
         },
         {
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:58:50.833Z",
+    "last_updated": "2026-08-24T14:33:59.537Z",
     "original_repository": "jzarca01/awesome-food",
     "original_repository_id": 152397082,
     "original_repository_sha": "7793028a0cb3e55aabeaac4ef120a9dd015cb618",
