@@ -12,10 +12,10 @@
             "archived": false,
             "id": 319167362,
             "language": "Python",
-            "last_commit": "2026-08-24T13:00:00Z",
+            "last_commit": "2026-08-24T17:44:37Z",
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13057
+            "stars": 13058
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-16T18:24:20Z",
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9413
+            "stars": 9414
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T07:45:49Z",
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8555
+            "stars": 8556
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 14111770,
             "language": "HTML",
-            "last_commit": "2026-08-24T14:10:03Z",
+            "last_commit": "2026-08-24T17:50:38Z",
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-server",
             "stars": 1113
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-15T02:20:06Z",
             "owner": "reaper47",
             "repo": "recipya",
-            "stars": 410
+            "stars": 411
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2026-08-20T07:14:07Z",
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 101949
+            "stars": 101952
           }
         },
         {
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:33:59.537Z",
+    "last_updated": "2026-08-24T18:15:04.519Z",
     "original_repository": "jzarca01/awesome-food",
     "original_repository_id": 152397082,
     "original_repository_sha": "7793028a0cb3e55aabeaac4ef120a9dd015cb618",
