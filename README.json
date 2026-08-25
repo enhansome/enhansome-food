@@ -12,10 +12,10 @@
             "archived": false,
             "id": 319167362,
             "language": "Python",
-            "last_commit": "2026-08-25T01:27:38Z",
+            "last_commit": "2026-08-25T17:01:48Z",
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13065
+            "stars": 13073
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-16T18:24:20Z",
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9419
+            "stars": 9421
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-25T05:47:25Z",
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8556
+            "stars": 8558
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 14111770,
             "language": "HTML",
-            "last_commit": "2026-08-24T20:37:56Z",
+            "last_commit": "2026-08-25T16:45:32Z",
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-server",
             "stars": 1113
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 187186203,
             "language": "HTML",
-            "last_commit": "2026-08-24T14:05:02Z",
+            "last_commit": "2026-08-25T16:36:17Z",
             "owner": "nextcloud",
             "repo": "cookbook",
             "stars": 637
@@ -348,10 +348,10 @@
             "archived": false,
             "id": 243950408,
             "language": null,
-            "last_commit": "2026-08-20T07:14:07Z",
+            "last_commit": "2026-08-25T10:26:50Z",
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 101953
+            "stars": 101963
           }
         },
         {
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:21:52.810Z",
+    "last_updated": "2026-08-25T18:15:16.079Z",
     "original_repository": "jzarca01/awesome-food",
     "original_repository_id": 152397082,
     "original_repository_sha": "7793028a0cb3e55aabeaac4ef120a9dd015cb618",
