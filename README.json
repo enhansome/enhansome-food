@@ -12,10 +12,10 @@
             "archived": false,
             "id": 319167362,
             "language": "Python",
-            "last_commit": "2026-08-25T17:01:48Z",
+            "last_commit": "2026-08-26T16:35:29Z",
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13073
+            "stars": 13077
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 88370518,
             "language": "JavaScript",
-            "last_commit": "2026-08-16T18:24:20Z",
+            "last_commit": "2026-08-26T19:23:22Z",
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9421
+            "stars": 9425
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-25T05:47:25Z",
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8558
+            "stars": 8559
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 14111770,
             "language": "HTML",
-            "last_commit": "2026-08-25T16:45:32Z",
+            "last_commit": "2026-08-26T18:01:04Z",
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-server",
-            "stars": 1113
+            "stars": 1119
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 187186203,
             "language": "HTML",
-            "last_commit": "2026-08-25T16:36:17Z",
+            "last_commit": "2026-08-26T18:14:07Z",
             "owner": "nextcloud",
             "repo": "cookbook",
-            "stars": 637
+            "stars": 636
           }
         },
         {
@@ -207,7 +207,7 @@
             "archived": false,
             "id": 398542590,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T11:08:18Z",
+            "last_commit": "2026-08-26T02:06:00Z",
             "owner": "frontendnetwork",
             "repo": "veganify",
             "stars": 66
@@ -351,7 +351,7 @@
             "last_commit": "2026-08-25T10:26:50Z",
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 101963
+            "stars": 101977
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-01-13T10:50:02Z",
             "owner": "hendricius",
             "repo": "pizza-dough",
-            "stars": 3657
+            "stars": 3656
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2026-08-24T09:24:43Z",
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3615
+            "stars": 3616
           }
         },
         {
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T18:15:16.079Z",
+    "last_updated": "2026-08-26T19:27:08.568Z",
     "original_repository": "jzarca01/awesome-food",
     "original_repository_id": 152397082,
     "original_repository_sha": "7793028a0cb3e55aabeaac4ef120a9dd015cb618",
