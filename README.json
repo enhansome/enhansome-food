@@ -12,10 +12,10 @@
             "archived": false,
             "id": 319167362,
             "language": "Python",
-            "last_commit": "2026-08-26T16:35:29Z",
+            "last_commit": "2026-08-27T11:39:39Z",
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13077
+            "stars": 13083
           }
         },
         {
@@ -26,11 +26,11 @@
           "repo_info": {
             "archived": false,
             "id": 88370518,
-            "language": "JavaScript",
+            "language": "Blade",
             "last_commit": "2026-08-26T19:23:22Z",
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9425
+            "stars": 9430
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-25T05:47:25Z",
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8559
+            "stars": 8562
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 14111770,
             "language": "HTML",
-            "last_commit": "2026-08-26T18:01:04Z",
+            "last_commit": "2026-08-27T09:53:20Z",
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-server",
-            "stars": 1119
+            "stars": 1142
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 187186203,
             "language": "HTML",
-            "last_commit": "2026-08-26T18:14:07Z",
+            "last_commit": "2026-08-27T01:09:11Z",
             "owner": "nextcloud",
             "repo": "cookbook",
             "stars": 636
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-15T02:20:06Z",
             "owner": "reaper47",
             "repo": "recipya",
-            "stars": 411
+            "stars": 412
           }
         },
         {
@@ -351,7 +351,7 @@
             "last_commit": "2026-08-25T10:26:50Z",
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 101977
+            "stars": 101982
           }
         },
         {
@@ -945,9 +945,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:27:08.568Z",
-    "original_repository": "jzarca01/awesome-food",
-    "original_repository_id": 152397082,
+    "last_updated": "2026-08-27T11:42:03.983Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 152397082,
+      "language": null,
+      "last_commit": "2026-03-17T09:08:41Z",
+      "owner": "jzarca01",
+      "repo": "awesome-food",
+      "stars": 247
+    },
     "original_repository_sha": "7793028a0cb3e55aabeaac4ef120a9dd015cb618",
     "enhanced_repository": "enhansome/enhansome-food",
     "enhanced_repository_description": null,
