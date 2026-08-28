@@ -12,10 +12,10 @@
             "archived": false,
             "id": 319167362,
             "language": "Python",
-            "last_commit": "2026-08-27T11:39:39Z",
+            "last_commit": "2026-08-27T16:22:22Z",
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13083
+            "stars": 13085
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 88370518,
             "language": "Blade",
-            "last_commit": "2026-08-26T19:23:22Z",
+            "last_commit": "2026-08-27T20:36:42Z",
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9430
+            "stars": 9431
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-25T05:47:25Z",
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8562
+            "stars": 8564
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 14111770,
             "language": "HTML",
-            "last_commit": "2026-08-27T09:53:20Z",
+            "last_commit": "2026-08-27T20:21:34Z",
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-server",
-            "stars": 1142
+            "stars": 1145
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 187186203,
             "language": "HTML",
-            "last_commit": "2026-08-27T01:09:11Z",
+            "last_commit": "2026-08-28T01:14:57Z",
             "owner": "nextcloud",
             "repo": "cookbook",
             "stars": 636
@@ -351,7 +351,7 @@
             "last_commit": "2026-08-25T10:26:50Z",
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 101982
+            "stars": 101984
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2026-08-24T09:24:43Z",
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3616
+            "stars": 3617
           }
         },
         {
@@ -426,7 +426,7 @@
             "last_commit": "2024-04-20T07:13:14Z",
             "owner": "dansinker",
             "repo": "tacofancy",
-            "stars": 1301
+            "stars": 1302
           }
         },
         {
@@ -945,7 +945,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:42:03.983Z",
+    "last_updated": "2026-08-28T01:46:50.842Z",
     "original_repository_info": {
       "archived": false,
       "id": 152397082,
