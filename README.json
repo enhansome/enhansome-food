@@ -12,11 +12,12 @@
             "archived": false,
             "id": 319167362,
             "language": "Python",
-            "last_commit": "2026-08-27T16:22:22Z",
+            "last_commit": "2026-08-28T14:36:42Z",
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13085
-          }
+            "stars": 13089
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 88370518,
             "language": "Blade",
-            "last_commit": "2026-08-27T20:36:42Z",
+            "last_commit": "2026-08-28T15:39:24Z",
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9431
-          }
+            "stars": 9434
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-25T05:47:25Z",
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8564
-          }
+            "stars": 8566
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 14111770,
             "language": "HTML",
-            "last_commit": "2026-08-27T20:21:34Z",
+            "last_commit": "2026-08-28T17:05:31Z",
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-server",
-            "stars": 1145
-          }
+            "stars": 1146
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 187186203,
             "language": "HTML",
-            "last_commit": "2026-08-28T01:14:57Z",
+            "last_commit": "2026-08-29T00:53:40Z",
             "owner": "nextcloud",
             "repo": "cookbook",
             "stars": 636
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "Murgio",
             "repo": "Food-Recipe-CNN",
             "stars": 589
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "hmontazeri",
             "repo": "is-vegan",
             "stars": 490
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -117,11 +124,12 @@
             "archived": false,
             "id": 5337437,
             "language": "Ruby",
-            "last_commit": "2026-08-24T12:03:57Z",
+            "last_commit": "2026-08-28T08:28:09Z",
             "owner": "Growstuff",
             "repo": "growstuff",
             "stars": 473
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "prakhar1989",
             "repo": "FoodTrucks",
             "stars": 435
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "reaper47",
             "repo": "recipya",
             "stars": 412
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "steve71",
             "repo": "RasPiBrew",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "mynamebrody",
             "repo": "pizzadash",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "hasgluten",
             "repo": "hasgluten",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "frontendnetwork",
             "repo": "veganify",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "navignaw",
             "repo": "TooManyChefs",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "nick",
             "repo": "auto-soylent",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "nick",
             "repo": "genetic-soylent",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "inket",
             "repo": "dominosjp",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "jzarca01",
             "repo": "fetch-my-whopper",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "hendricius",
             "repo": "diy-proofing-box",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "jzarca01",
             "repo": "fetch-my-cookie",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "jzarca01",
             "repo": "whoffer",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         }
       ],
       "title": "Food-related projects"
@@ -351,8 +373,9 @@
             "last_commit": "2026-08-25T10:26:50Z",
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 101984
-          }
+            "stars": 101986
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "hendricius",
             "repo": "the-bread-code",
             "stars": 4142
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "hendricius",
             "repo": "pizza-dough",
             "stars": 3656
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
             "stars": 3617
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "aweijnitz",
             "repo": "recipe-el_fuego_viviente",
             "stars": 1738
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -426,8 +453,9 @@
             "last_commit": "2024-04-20T07:13:14Z",
             "owner": "dansinker",
             "repo": "tacofancy",
-            "stars": 1302
-          }
+            "stars": 1303
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "clarklab",
             "repo": "chowdown",
             "stars": 667
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "pale-shadow",
             "repo": "1337-Noms-The-Hacker-Cookbook",
             "stars": 249
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "hendricius",
             "repo": "mozzarella",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "obfuscurity",
             "repo": "food-recipes",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "dgryski",
             "repo": "bread",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "Donearm",
             "repo": "Cooking-Recipes",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "andrewkern",
             "repo": "bagels",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "jlinder",
             "repo": "cookbook",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "bzimmerman",
             "repo": "recipes",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -577,7 +614,8 @@
             "owner": "douvy",
             "repo": "tasty-cooking",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -592,7 +630,8 @@
             "owner": "tirimia",
             "repo": "lactofermentation",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -607,7 +646,8 @@
             "owner": "the-domains",
             "repo": "vegan-chocolate-seduction-cookbook",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         }
       ],
       "title": "Cookbooks"
@@ -628,7 +668,8 @@
             "owner": "sdassow",
             "repo": "awesome-veganism",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -643,7 +684,8 @@
             "owner": "rochacbruno",
             "repo": "vegan_recipes",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -658,7 +700,8 @@
             "owner": "hrs",
             "repo": "recipes",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -673,7 +716,8 @@
             "owner": "mathias",
             "repo": "recipes",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         }
       ],
       "title": "Plant-Based"
@@ -694,7 +738,8 @@
             "owner": "AwesomeCities",
             "repo": "awesome-berlin",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -709,7 +754,8 @@
             "owner": "s4kibs4mi",
             "repo": "awesome-kacchi",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -724,7 +770,8 @@
             "owner": "carlosyslas",
             "repo": "berlin-para-mexicanos",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         }
       ],
       "title": "Addresses"
@@ -745,7 +792,8 @@
             "owner": "evz",
             "repo": "tacofancy-api",
             "stars": 131
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -760,7 +808,8 @@
             "owner": "jzarca01",
             "repo": "node-deliveroo",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -775,7 +824,8 @@
             "owner": "jzarca01",
             "repo": "node-ubereats",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -790,7 +840,8 @@
             "owner": "jzarca01",
             "repo": "node-simplefeast",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "children": [
@@ -807,7 +858,8 @@
                 "owner": "jzarca01",
                 "repo": "node-mcdofrance",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:11:20.737Z"
             },
             {
               "node_type": "item",
@@ -822,7 +874,8 @@
                 "owner": "jzarca01",
                 "repo": "node-dominos-france",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:11:20.737Z"
             },
             {
               "node_type": "item",
@@ -837,7 +890,8 @@
                 "owner": "jzarca01",
                 "repo": "node-kebab",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:11:20.737Z"
             },
             {
               "node_type": "item",
@@ -852,7 +906,8 @@
                 "owner": "jzarca01",
                 "repo": "node-foodcheri",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:11:20.737Z"
             },
             {
               "node_type": "item",
@@ -867,7 +922,8 @@
                 "owner": "jzarca01",
                 "repo": "node-frichti",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:11:20.737Z"
             },
             {
               "node_type": "item",
@@ -882,7 +938,8 @@
                 "owner": "jzarca01",
                 "repo": "node-nestor",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:11:20.737Z"
             },
             {
               "node_type": "item",
@@ -897,7 +954,8 @@
                 "owner": "jzarca01",
                 "repo": "FoodtttruckAPI",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:11:20.737Z"
             }
           ],
           "description": null,
@@ -923,7 +981,8 @@
             "owner": "jamesflorentino",
             "repo": "fitness",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         },
         {
           "node_type": "item",
@@ -938,14 +997,15 @@
             "owner": "prkeshri",
             "repo": "affordable-whey",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
         }
       ],
       "title": "Sport nutrition"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:46:50.842Z",
+    "last_updated": "2026-08-29T01:11:20.737Z",
     "original_repository_info": {
       "archived": false,
       "id": 152397082,
