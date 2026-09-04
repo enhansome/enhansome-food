@@ -15,11 +15,11 @@
             "id": 319167362,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-03T18:51:48Z",
-            "open_issues": 225,
+            "last_commit": "2026-09-04T19:42:37Z",
+            "open_issues": 214,
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13135,
+            "stars": 13140,
             "topics": [
               "meal-plans",
               "recipe-manager",
@@ -40,11 +40,11 @@
             "id": 88370518,
             "language": "Blade",
             "license": "MIT",
-            "last_commit": "2026-09-03T18:55:46Z",
+            "last_commit": "2026-09-04T15:52:38Z",
             "open_issues": 133,
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9450,
+            "stars": 9453,
             "topics": [
               "erp",
               "food",
@@ -75,7 +75,7 @@
             "open_issues": 425,
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8569,
+            "stars": 8570,
             "topics": [
               "cookbook",
               "cooking",
@@ -105,11 +105,11 @@
             "id": 14111770,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-03T17:48:23Z",
-            "open_issues": 1823,
+            "last_commit": "2026-09-04T17:59:44Z",
+            "open_issues": 1838,
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-server",
-            "stars": 1148,
+            "stars": 1149,
             "topics": [
               "allergens",
               "allergies",
@@ -604,7 +604,7 @@
             "open_issues": 464,
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 102115,
+            "stars": 102144,
             "topics": [
               "chinese",
               "cookbook",
@@ -1541,7 +1541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T20:08:25.455Z",
+    "last_updated": "2026-09-04T19:54:25.476Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of food related projects on Github",
