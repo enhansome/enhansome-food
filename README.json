@@ -15,11 +15,11 @@
             "id": 319167362,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-11T18:06:54Z",
-            "open_issues": 212,
+            "last_commit": "2026-09-12T15:36:40Z",
+            "open_issues": 213,
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13193,
+            "stars": 13204,
             "topics": [
               "meal-plans",
               "recipe-manager",
@@ -44,7 +44,7 @@
             "open_issues": 134,
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9479,
+            "stars": 9483,
             "topics": [
               "erp",
               "food",
@@ -71,11 +71,11 @@
             "id": 221546437,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T15:54:48Z",
+            "last_commit": "2026-09-11T23:39:44Z",
             "open_issues": 373,
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8588,
+            "stars": 8591,
             "topics": [
               "cookbook",
               "cooking",
@@ -105,8 +105,8 @@
             "id": 14111770,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-11T15:36:35Z",
-            "open_issues": 1828,
+            "last_commit": "2026-09-12T14:00:54Z",
+            "open_issues": 1834,
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-server",
             "stars": 1152,
@@ -141,7 +141,7 @@
             "open_issues": 318,
             "owner": "nextcloud",
             "repo": "cookbook",
-            "stars": 639,
+            "stars": 640,
             "topics": [
               "nextcloud",
               "recipe",
@@ -601,10 +601,10 @@
             "language": null,
             "license": "Unlicense",
             "last_commit": "2026-09-03T14:26:56Z",
-            "open_issues": 464,
+            "open_issues": 465,
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 102198,
+            "stars": 102202,
             "topics": [
               "chinese",
               "cookbook",
@@ -690,7 +690,7 @@
             "open_issues": 23,
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3620,
+            "stars": 3621,
             "topics": [
               "baking",
               "bread",
@@ -1541,7 +1541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T20:03:49.736Z",
+    "last_updated": "2026-09-12T19:39:04.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of food related projects on Github",
