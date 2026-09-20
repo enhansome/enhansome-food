@@ -15,11 +15,11 @@
             "id": 319167362,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-19T18:24:17Z",
-            "open_issues": 172,
+            "last_commit": "2026-09-20T19:45:40Z",
+            "open_issues": 173,
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13255,
+            "stars": 13263,
             "topics": [
               "meal-plans",
               "recipe-manager",
@@ -44,7 +44,7 @@
             "open_issues": 135,
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9513,
+            "stars": 9515,
             "topics": [
               "erp",
               "food",
@@ -72,10 +72,10 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2026-09-16T19:42:19Z",
-            "open_issues": 381,
+            "open_issues": 383,
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8613,
+            "stars": 8615,
             "topics": [
               "cookbook",
               "cooking",
@@ -105,11 +105,11 @@
             "id": 14111770,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-19T14:24:46Z",
-            "open_issues": 1824,
+            "last_commit": "2026-09-20T19:30:21Z",
+            "open_issues": 1832,
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-server",
-            "stars": 1156,
+            "stars": 1157,
             "topics": [
               "allergens",
               "allergies",
@@ -137,11 +137,11 @@
             "id": 187186203,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-18T01:03:37Z",
-            "open_issues": 322,
+            "last_commit": "2026-09-20T07:46:01Z",
+            "open_issues": 323,
             "owner": "nextcloud",
             "repo": "cookbook",
-            "stars": 641,
+            "stars": 642,
             "topics": [
               "nextcloud",
               "recipe",
@@ -231,8 +231,8 @@
             "id": 5337437,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-19T11:00:42Z",
-            "open_issues": 125,
+            "last_commit": "2026-09-20T09:51:58Z",
+            "open_issues": 121,
             "owner": "Growstuff",
             "repo": "growstuff",
             "stars": 475,
@@ -604,7 +604,7 @@
             "open_issues": 465,
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 102268,
+            "stars": 102291,
             "topics": [
               "chinese",
               "cookbook",
@@ -716,7 +716,7 @@
             "open_issues": 8,
             "owner": "aweijnitz",
             "repo": "recipe-el_fuego_viviente",
-            "stars": 1738,
+            "stars": 1737,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:20.737Z"
@@ -1249,7 +1249,7 @@
             "open_issues": 6,
             "owner": "evz",
             "repo": "tacofancy-api",
-            "stars": 131,
+            "stars": 132,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:20.737Z"
@@ -1541,7 +1541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T19:36:38.370Z",
+    "last_updated": "2026-09-20T19:48:17.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of food related projects on Github",
@@ -1553,7 +1553,7 @@
       "open_issues": 12,
       "owner": "jzarca01",
       "repo": "awesome-food",
-      "stars": 248,
+      "stars": 249,
       "topics": [
         "awesome",
         "awesome-list"
