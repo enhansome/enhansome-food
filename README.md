@@ -23,14 +23,14 @@
 
 ## Food-related projects
 
-* [Mealie](https://github.com/hay-kot/mealie) ⭐ 13,405 | 🐛 150 | 🌐 Python | 📅 2026-10-02 - Mealie is a self hosted recipe manager and meal planner.
+* [Mealie](https://github.com/hay-kot/mealie) ⭐ 13,411 | 🐛 150 | 🌐 Python | 📅 2026-10-02 - Mealie is a self hosted recipe manager and meal planner.
 * [grocy](https://github.com/grocy/grocy) ⭐ 9,543 | 🐛 136 | 🌐 Blade | 📅 2026-09-16 - Web-based self-hosted groceries and household management solution with recipe and meal planning features.
-* [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) ⭐ 8,647 | 🐛 419 | 🌐 HTML | 📅 2026-10-01 - Self-hosted recipe manager with meal planning, shopping lists, and cookbook organization.
-* [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server) ⭐ 1,167 | 🐛 1,846 | 🌐 HTML | 📅 2026-10-02 - A collaborative, free and open database of food products from around the world.
+* [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) ⭐ 8,647 | 🐛 420 | 🌐 HTML | 📅 2026-10-01 - Self-hosted recipe manager with meal planning, shopping lists, and cookbook organization.
+* [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server) ⭐ 1,167 | 🐛 1,848 | 🌐 HTML | 📅 2026-10-02 - A collaborative, free and open database of food products from around the world.
 * [Nextcloud Cookbook](https://github.com/nextcloud/cookbook) ⭐ 643 | 🐛 317 | 🌐 HTML | 📅 2026-10-02 - Recipe management app for the Nextcloud platform.
 * [Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) ⭐ 587 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-12-08 - DeepChef : Classification of Cooking Dishes with Machine Learning.
 * [is-vegan](https://github.com/hmontazeri/is-vegan) ⭐ 490 | 🐛 9 | 🌐 TypeScript | 📅 2025-11-18 - Is-Vegan helps you to find out which food ingredients are vegan / non-vegan.
-* [Growstuff](https://github.com/Growstuff/growstuff) ⭐ 474 | 🐛 139 | 🌐 Ruby | 📅 2026-10-02 - Open data project for small-scale food growers.
+* [Growstuff](https://github.com/Growstuff/growstuff) ⭐ 474 | 🐛 139 | 🌐 Ruby | 📅 2026-10-03 - Open data project for small-scale food growers.
 * [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) ⭐ 435 | 🐛 19 | 🌐 JavaScript | 📅 2024-08-19 - San Francisco's finger-licking street food now at your fingertips.
 * [Recipya](https://github.com/reaper47/recipya) ⭐ 412 | 🐛 68 | 🌐 Go | 📅 2026-09-17 - A clean, simple and powerful self-hosted recipe manager.
 * [RasPiBrew](https://github.com/steve71/RasPiBrew) ⭐ 192 | 🐛 7 | 🌐 Python | 📅 2017-10-09 - Raspberry Pi Temperature Controller for homebrewing and sous vide cooking .
@@ -49,7 +49,7 @@
 
 ## Cookbooks
 
-* [HowToCook](https://github.com/Anduin2017/HowToCook) ⭐ 102,383 | 🐛 466 | 📅 2026-09-23 - A programmer's guide to cooking at home with step-by-step recipes (Simplified Chinese).
+* [HowToCook](https://github.com/Anduin2017/HowToCook) ⭐ 102,384 | 🐛 466 | 📅 2026-09-23 - A programmer's guide to cooking at home with step-by-step recipes (Simplified Chinese).
 * [the-bread-code](https://github.com/hendricius/the-bread-code) ⭐ 4,140 | 🐛 9 | 🌐 Shell | 📅 2025-12-28 - Learn how to master the art of baking the programmer way.
 * [pizza-dough](https://github.com/hendricius/pizza-dough) ⭐ 3,659 | 🐛 4 | 🌐 HTML | 📅 2026-01-13 - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 * [the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) ⭐ 3,631 | 🐛 23 | 🌐 TeX | 📅 2026-09-27 - Open source book dedicated to helping you make the best possible sourdough bread at home.
@@ -72,7 +72,7 @@
 
 * [awesome-veganism](https://github.com/sdassow/awesome-veganism) ⭐ 88 | 🐛 5 | 📅 2026-02-26 - A curated list of resources, pointers, and tips related to veganism.
 * [vegan\_recipes](https://github.com/rochacbruno/vegan_recipes) ⭐ 49 | 🐛 1 | 📅 2019-09-09 - A collection of 100% vegan recipes.
-* [recipes](https://github.com/hrs/recipes) ⭐ 48 | 🐛 0 | 📅 2025-05-16 - Actual food recipes in Markdown. All vegetarian, mostly vegan.
+* [recipes](https://github.com/hrs/recipes) ⚠️ Archived - Actual food recipes in Markdown. All vegetarian, mostly vegan.
 * [recipes](https://github.com/mathias/recipes) ⭐ 34 | 🐛 0 | 📅 2018-06-25 - A collection of mostly vegan recipes. Creative Commons licensed.
 
 ## Addresses
@@ -160,4 +160,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
