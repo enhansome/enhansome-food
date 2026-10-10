@@ -15,11 +15,11 @@
             "id": 319167362,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-08T22:08:06Z",
-            "open_issues": 164,
+            "last_commit": "2026-10-10T19:18:43Z",
+            "open_issues": 165,
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13491,
+            "stars": 13504,
             "topics": [
               "meal-plans",
               "recipe-manager",
@@ -44,7 +44,7 @@
             "open_issues": 136,
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9568,
+            "stars": 9573,
             "topics": [
               "erp",
               "food",
@@ -72,10 +72,10 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2026-10-06T00:35:33Z",
-            "open_issues": 421,
+            "open_issues": 419,
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8658,
+            "stars": 8660,
             "topics": [
               "cookbook",
               "cooking",
@@ -105,11 +105,11 @@
             "id": 14111770,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-09T21:24:21Z",
-            "open_issues": 1858,
+            "last_commit": "2026-10-10T16:12:07Z",
+            "open_issues": 1868,
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-server",
-            "stars": 1171,
+            "stars": 1174,
             "topics": [
               "allergens",
               "allergies",
@@ -137,8 +137,8 @@
             "id": 187186203,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-09T21:35:59Z",
-            "open_issues": 324,
+            "last_commit": "2026-10-09T21:58:52Z",
+            "open_issues": 323,
             "owner": "nextcloud",
             "repo": "cookbook",
             "stars": 644,
@@ -231,8 +231,8 @@
             "id": 5337437,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-09T16:13:54Z",
-            "open_issues": 137,
+            "last_commit": "2026-10-10T20:18:47Z",
+            "open_issues": 144,
             "owner": "Growstuff",
             "repo": "growstuff",
             "stars": 474,
@@ -604,7 +604,7 @@
             "open_issues": 467,
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 102589,
+            "stars": 102668,
             "topics": [
               "chinese",
               "cookbook",
@@ -631,7 +631,7 @@
             "open_issues": 9,
             "owner": "hendricius",
             "repo": "the-bread-code",
-            "stars": 4141,
+            "stars": 4142,
             "topics": [
               "baking",
               "bread",
@@ -661,7 +661,7 @@
             "open_issues": 4,
             "owner": "hendricius",
             "repo": "pizza-dough",
-            "stars": 3658,
+            "stars": 3659,
             "topics": [
               "baking",
               "cooking",
@@ -690,7 +690,7 @@
             "open_issues": 23,
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3634,
+            "stars": 3635,
             "topics": [
               "baking",
               "bread",
@@ -779,7 +779,7 @@
             "open_issues": 4,
             "owner": "pale-shadow",
             "repo": "1337-Noms-The-Hacker-Cookbook",
-            "stars": 250,
+            "stars": 251,
             "topics": [
               "hackercookbook",
               "recipe"
@@ -1541,7 +1541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T21:53:04.748Z",
+    "last_updated": "2026-10-10T20:43:05.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of food related projects on Github",
@@ -1553,7 +1553,7 @@
       "open_issues": 19,
       "owner": "jzarca01",
       "repo": "awesome-food",
-      "stars": 249,
+      "stars": 250,
       "topics": [
         "awesome",
         "awesome-list"
