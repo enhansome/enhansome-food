@@ -23,14 +23,14 @@
 
 ## Food-related projects
 
-* [Mealie](https://github.com/hay-kot/mealie) ⭐ 13,591 | 🐛 155 | 🌐 Python | 📅 2026-10-17 - Mealie is a self hosted recipe manager and meal planner.
-* [grocy](https://github.com/grocy/grocy) ⭐ 9,597 | 🐛 137 | 🌐 Blade | 📅 2026-09-16 - Web-based self-hosted groceries and household management solution with recipe and meal planning features.
-* [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) ⭐ 8,667 | 🐛 414 | 🌐 HTML | 📅 2026-10-17 - Self-hosted recipe manager with meal planning, shopping lists, and cookbook organization.
-* [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server) ⭐ 1,181 | 🐛 1,906 | 🌐 HTML | 📅 2026-10-17 - A collaborative, free and open database of food products from around the world.
-* [Nextcloud Cookbook](https://github.com/nextcloud/cookbook) ⭐ 645 | 🐛 331 | 🌐 HTML | 📅 2026-10-16 - Recipe management app for the Nextcloud platform.
+* [Mealie](https://github.com/hay-kot/mealie) ⭐ 13,607 | 🐛 158 | 🌐 Python | 📅 2026-10-18 - Mealie is a self hosted recipe manager and meal planner.
+* [grocy](https://github.com/grocy/grocy) ⭐ 9,598 | 🐛 138 | 🌐 Blade | 📅 2026-09-16 - Web-based self-hosted groceries and household management solution with recipe and meal planning features.
+* [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) ⭐ 8,667 | 🐛 415 | 🌐 HTML | 📅 2026-10-18 - Self-hosted recipe manager with meal planning, shopping lists, and cookbook organization.
+* [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server) ⭐ 1,184 | 🐛 1,918 | 🌐 HTML | 📅 2026-10-18 - A collaborative, free and open database of food products from around the world.
+* [Nextcloud Cookbook](https://github.com/nextcloud/cookbook) ⭐ 645 | 🐛 333 | 🌐 HTML | 📅 2026-10-18 - Recipe management app for the Nextcloud platform.
 * [Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) ⭐ 588 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-12-08 - DeepChef : Classification of Cooking Dishes with Machine Learning.
 * [is-vegan](https://github.com/hmontazeri/is-vegan) ⭐ 490 | 🐛 9 | 🌐 TypeScript | 📅 2025-11-18 - Is-Vegan helps you to find out which food ingredients are vegan / non-vegan.
-* [Growstuff](https://github.com/Growstuff/growstuff) ⭐ 474 | 🐛 160 | 🌐 Ruby | 📅 2026-10-17 - Open data project for small-scale food growers.
+* [Growstuff](https://github.com/Growstuff/growstuff) ⭐ 474 | 🐛 160 | 🌐 Ruby | 📅 2026-10-18 - Open data project for small-scale food growers.
 * [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) ⭐ 437 | 🐛 20 | 🌐 JavaScript | 📅 2024-08-19 - San Francisco's finger-licking street food now at your fingertips.
 * [Recipya](https://github.com/reaper47/recipya) ⭐ 411 | 🐛 70 | 🌐 Go | 📅 2026-10-16 - A clean, simple and powerful self-hosted recipe manager.
 * [RasPiBrew](https://github.com/steve71/RasPiBrew) ⭐ 192 | 🐛 7 | 🌐 Python | 📅 2017-10-09 - Raspberry Pi Temperature Controller for homebrewing and sous vide cooking .
@@ -49,7 +49,7 @@
 
 ## Cookbooks
 
-* [HowToCook](https://github.com/Anduin2017/HowToCook) ⭐ 102,865 | 🐛 469 | 📅 2026-10-15 - A programmer's guide to cooking at home with step-by-step recipes (Simplified Chinese).
+* [HowToCook](https://github.com/Anduin2017/HowToCook) ⭐ 102,872 | 🐛 472 | 📅 2026-10-15 - A programmer's guide to cooking at home with step-by-step recipes (Simplified Chinese).
 * [the-bread-code](https://github.com/hendricius/the-bread-code) ⭐ 4,142 | 🐛 9 | 🌐 Shell | 📅 2025-12-28 - Learn how to master the art of baking the programmer way.
 * [pizza-dough](https://github.com/hendricius/pizza-dough) ⭐ 3,661 | 🐛 4 | 🌐 HTML | 📅 2026-01-13 - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
 * [the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) ⭐ 3,638 | 🐛 23 | 🌐 TeX | 📅 2026-10-12 - Open source book dedicated to helping you make the best possible sourdough bread at home.
@@ -83,7 +83,7 @@
 
 ## API for Food services
 
-* [tacofancy-api](https://github.com/evz/tacofancy-api) ⭐ 130 | 🐛 6 | 🌐 Python | 📅 2025-08-19 - An API for the repo Tacofancy.
+* [tacofancy-api](https://github.com/evz/tacofancy-api) ⭐ 131 | 🐛 6 | 🌐 Python | 📅 2025-08-19 - An API for the repo Tacofancy.
 * [node-deliveroo](https://github.com/jzarca01/node-deliveroo) ⭐ 17 | 🐛 8 | 🌐 JavaScript | 📅 2022-06-23 - Unofficial Node API for Deliveroo.
 * [node-ubereats](https://github.com/jzarca01/node-ubereats) ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2019-02-01 - A work in progress API for Uber Eats.
 * [node-simplefeast](https://github.com/jzarca01/node-simplefeast) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2019-02-15 - An API Wrapper for the app Simple Feast.
@@ -160,4 +160,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
