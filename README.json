@@ -15,11 +15,11 @@
             "id": 319167362,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-22T19:44:15Z",
-            "open_issues": 113,
+            "last_commit": "2026-10-23T19:56:35Z",
+            "open_issues": 118,
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13656,
+            "stars": 13663,
             "topics": [
               "meal-plans",
               "recipe-manager",
@@ -44,7 +44,7 @@
             "open_issues": 139,
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9607,
+            "stars": 9610,
             "topics": [
               "erp",
               "food",
@@ -71,11 +71,11 @@
             "id": 221546437,
             "language": "HTML",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T07:01:17Z",
-            "open_issues": 422,
+            "last_commit": "2026-10-23T16:46:38Z",
+            "open_issues": 372,
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8681,
+            "stars": 8678,
             "topics": [
               "cookbook",
               "cooking",
@@ -105,8 +105,8 @@
             "id": 14111770,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-22T20:20:50Z",
-            "open_issues": 1884,
+            "last_commit": "2026-10-23T19:43:51Z",
+            "open_issues": 1876,
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-server",
             "stars": 1187,
@@ -137,11 +137,11 @@
             "id": 187186203,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-22T01:08:43Z",
+            "last_commit": "2026-10-23T06:17:27Z",
             "open_issues": 337,
             "owner": "nextcloud",
             "repo": "cookbook",
-            "stars": 646,
+            "stars": 649,
             "topics": [
               "nextcloud",
               "recipe",
@@ -209,7 +209,7 @@
             "open_issues": 9,
             "owner": "hmontazeri",
             "repo": "is-vegan",
-            "stars": 490,
+            "stars": 491,
             "topics": [
               "food",
               "ingredients",
@@ -231,8 +231,8 @@
             "id": 5337437,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-22T19:44:00Z",
-            "open_issues": 173,
+            "last_commit": "2026-10-23T16:14:10Z",
+            "open_issues": 164,
             "owner": "Growstuff",
             "repo": "growstuff",
             "stars": 474,
@@ -601,10 +601,10 @@
             "language": null,
             "license": "Unlicense",
             "last_commit": "2026-10-20T10:07:05Z",
-            "open_issues": 471,
+            "open_issues": 472,
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 102986,
+            "stars": 103000,
             "topics": [
               "chinese",
               "cookbook",
@@ -631,7 +631,7 @@
             "open_issues": 9,
             "owner": "hendricius",
             "repo": "the-bread-code",
-            "stars": 4142,
+            "stars": 4143,
             "topics": [
               "baking",
               "bread",
@@ -661,7 +661,7 @@
             "open_issues": 4,
             "owner": "hendricius",
             "repo": "pizza-dough",
-            "stars": 3661,
+            "stars": 3662,
             "topics": [
               "baking",
               "cooking",
@@ -686,11 +686,11 @@
             "id": 450634273,
             "language": "TeX",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-22T17:33:53Z",
+            "last_commit": "2026-10-23T15:12:41Z",
             "open_issues": 24,
             "owner": "hendricius",
             "repo": "the-sourdough-framework",
-            "stars": 3639,
+            "stars": 3640,
             "topics": [
               "baking",
               "bread",
@@ -737,7 +737,7 @@
             "open_issues": 15,
             "owner": "dansinker",
             "repo": "tacofancy",
-            "stars": 1305,
+            "stars": 1306,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:20.737Z"
@@ -758,7 +758,7 @@
             "open_issues": 31,
             "owner": "clarklab",
             "repo": "chowdown",
-            "stars": 671,
+            "stars": 672,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:20.737Z"
@@ -819,27 +819,6 @@
         },
         {
           "node_type": "item",
-          "title": "food-recipes",
-          "description": "Honest-to-goodness \"real food\" recipes.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Honest-to-goodness \"real food\" recipes",
-            "homepage": null,
-            "id": 4642826,
-            "language": "Elixir",
-            "license": null,
-            "last_commit": "2021-12-19T23:55:34Z",
-            "open_issues": 0,
-            "owner": "obfuscurity",
-            "repo": "food-recipes",
-            "stars": 59,
-            "topics": []
-          },
-          "first_seen": "2026-08-29T01:11:20.737Z"
-        },
-        {
-          "node_type": "item",
           "title": "bread",
           "description": "Notes on bread baking.",
           "children": [],
@@ -854,6 +833,27 @@
             "open_issues": 0,
             "owner": "dgryski",
             "repo": "bread",
+            "stars": 60,
+            "topics": []
+          },
+          "first_seen": "2026-08-29T01:11:20.737Z"
+        },
+        {
+          "node_type": "item",
+          "title": "food-recipes",
+          "description": "Honest-to-goodness \"real food\" recipes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Honest-to-goodness \"real food\" recipes",
+            "homepage": null,
+            "id": 4642826,
+            "language": "Elixir",
+            "license": null,
+            "last_commit": "2021-12-19T23:55:34Z",
+            "open_issues": 0,
+            "owner": "obfuscurity",
+            "repo": "food-recipes",
             "stars": 59,
             "topics": []
           },
@@ -1076,7 +1076,7 @@
             "open_issues": 1,
             "owner": "rochacbruno",
             "repo": "vegan_recipes",
-            "stars": 49,
+            "stars": 48,
             "topics": [
               "cooking",
               "cuisine",
@@ -1541,7 +1541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:50:46.074Z",
+    "last_updated": "2026-10-23T20:40:05.582Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of food related projects on Github",
