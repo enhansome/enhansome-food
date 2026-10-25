@@ -23,14 +23,14 @@
 
 ## Food-related projects
 
-* [Mealie](https://github.com/hay-kot/mealie) ⭐ 13,670 | 🐛 119 | 🌐 Python | 📅 2026-10-24 - Mealie is a self hosted recipe manager and meal planner.
-* [grocy](https://github.com/grocy/grocy) ⭐ 9,609 | 🐛 139 | 🌐 Blade | 📅 2026-09-16 - Web-based self-hosted groceries and household management solution with recipe and meal planning features.
-* [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) ⭐ 8,682 | 🐛 376 | 🌐 HTML | 📅 2026-10-23 - Self-hosted recipe manager with meal planning, shopping lists, and cookbook organization.
-* [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server) ⭐ 1,187 | 🐛 1,878 | 🌐 HTML | 📅 2026-10-24 - A collaborative, free and open database of food products from around the world.
-* [Nextcloud Cookbook](https://github.com/nextcloud/cookbook) ⭐ 649 | 🐛 342 | 🌐 HTML | 📅 2026-10-24 - Recipe management app for the Nextcloud platform.
+* [Mealie](https://github.com/hay-kot/mealie) ⭐ 13,680 | 🐛 120 | 🌐 Python | 📅 2026-10-25 - Mealie is a self hosted recipe manager and meal planner.
+* [grocy](https://github.com/grocy/grocy) ⭐ 9,611 | 🐛 139 | 🌐 Blade | 📅 2026-09-16 - Web-based self-hosted groceries and household management solution with recipe and meal planning features.
+* [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) ⭐ 8,687 | 🐛 379 | 🌐 HTML | 📅 2026-10-23 - Self-hosted recipe manager with meal planning, shopping lists, and cookbook organization.
+* [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server) ⭐ 1,192 | 🐛 1,884 | 🌐 HTML | 📅 2026-10-25 - A collaborative, free and open database of food products from around the world.
+* [Nextcloud Cookbook](https://github.com/nextcloud/cookbook) ⭐ 650 | 🐛 333 | 🌐 HTML | 📅 2026-10-25 - Recipe management app for the Nextcloud platform.
 * [Food-Recipe-CNN](https://github.com/Murgio/Food-Recipe-CNN) ⭐ 588 | 🐛 22 | 🌐 Jupyter Notebook | 📅 2022-12-08 - DeepChef : Classification of Cooking Dishes with Machine Learning.
 * [is-vegan](https://github.com/hmontazeri/is-vegan) ⭐ 491 | 🐛 9 | 🌐 TypeScript | 📅 2025-11-18 - Is-Vegan helps you to find out which food ingredients are vegan / non-vegan.
-* [Growstuff](https://github.com/Growstuff/growstuff) ⭐ 475 | 🐛 165 | 🌐 Ruby | 📅 2026-10-24 - Open data project for small-scale food growers.
+* [Growstuff](https://github.com/Growstuff/growstuff) ⭐ 475 | 🐛 171 | 🌐 Ruby | 📅 2026-10-25 - Open data project for small-scale food growers.
 * [FoodTrucks](https://github.com/prakhar1989/FoodTrucks) ⭐ 437 | 🐛 20 | 🌐 JavaScript | 📅 2024-08-19 - San Francisco's finger-licking street food now at your fingertips.
 * [Recipya](https://github.com/reaper47/recipya) ⭐ 411 | 🐛 70 | 🌐 Go | 📅 2026-10-16 - A clean, simple and powerful self-hosted recipe manager.
 * [RasPiBrew](https://github.com/steve71/RasPiBrew) ⭐ 192 | 🐛 7 | 🌐 Python | 📅 2017-10-09 - Raspberry Pi Temperature Controller for homebrewing and sous vide cooking .
@@ -49,10 +49,10 @@
 
 ## Cookbooks
 
-* [HowToCook](https://github.com/Anduin2017/HowToCook) ⭐ 103,027 | 🐛 473 | 📅 2026-10-20 - A programmer's guide to cooking at home with step-by-step recipes (Simplified Chinese).
+* [HowToCook](https://github.com/Anduin2017/HowToCook) ⭐ 103,085 | 🐛 470 | 📅 2026-10-25 - A programmer's guide to cooking at home with step-by-step recipes (Simplified Chinese).
 * [the-bread-code](https://github.com/hendricius/the-bread-code) ⭐ 4,143 | 🐛 9 | 🌐 Shell | 📅 2025-12-28 - Learn how to master the art of baking the programmer way.
-* [pizza-dough](https://github.com/hendricius/pizza-dough) ⭐ 3,662 | 🐛 4 | 🌐 HTML | 📅 2026-01-13 - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
-* [the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) ⭐ 3,640 | 🐛 23 | 🌐 TeX | 📅 2026-10-24 - Open source book dedicated to helping you make the best possible sourdough bread at home.
+* [pizza-dough](https://github.com/hendricius/pizza-dough) ⭐ 3,663 | 🐛 4 | 🌐 HTML | 📅 2026-01-13 - This recipe is dedicated to helping you make the best possible pizza dough for Neapolitan pizza.
+* [the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) ⭐ 3,641 | 🐛 23 | 🌐 TeX | 📅 2026-10-24 - Open source book dedicated to helping you make the best possible sourdough bread at home.
 * [El Fuego Viviente Chili Open Sauce](https://github.com/aweijnitz/recipe-el_fuego_viviente) ⭐ 1,737 | 🐛 8 | 📅 2022-08-03 - Fermented Chili "Open Sauce".
 * [tacofancy](https://github.com/sinker/tacofancy) ⭐ 1,306 | 🐛 15 | 🌐 CoffeeScript | 📅 2024-04-20 - Community-driven taco repo. stars stars stars.
 * [Chowdown](https://github.com/clarklab/chowdown) ⭐ 672 | 🐛 31 | 🌐 HTML | 📅 2026-08-01 - A simple, plaintext markdown recipe database for hackers.
@@ -160,4 +160,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
