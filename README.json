@@ -15,11 +15,11 @@
             "id": 319167362,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-08T18:15:38Z",
-            "open_issues": 150,
+            "last_commit": "2026-11-10T00:23:27Z",
+            "open_issues": 151,
             "owner": "mealie-recipes",
             "repo": "mealie",
-            "stars": 13850,
+            "stars": 13864,
             "topics": [
               "meal-plans",
               "recipe-manager",
@@ -44,7 +44,7 @@
             "open_issues": 144,
             "owner": "grocy",
             "repo": "grocy",
-            "stars": 9669,
+            "stars": 9671,
             "topics": [
               "erp",
               "food",
@@ -72,10 +72,10 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2026-11-01T00:44:57Z",
-            "open_issues": 404,
+            "open_issues": 407,
             "owner": "TandoorRecipes",
             "repo": "recipes",
-            "stars": 8726,
+            "stars": 8728,
             "topics": [
               "cookbook",
               "cooking",
@@ -105,11 +105,11 @@
             "id": 14111770,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-08T20:09:29Z",
-            "open_issues": 1882,
+            "last_commit": "2026-11-09T22:38:37Z",
+            "open_issues": 1878,
             "owner": "openfoodfacts",
             "repo": "openfoodfacts-server",
-            "stars": 1202,
+            "stars": 1203,
             "topics": [
               "allergens",
               "allergies",
@@ -137,8 +137,8 @@
             "id": 187186203,
             "language": "HTML",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-08T20:59:28Z",
-            "open_issues": 332,
+            "last_commit": "2026-11-09T21:24:40Z",
+            "open_issues": 336,
             "owner": "nextcloud",
             "repo": "cookbook",
             "stars": 653,
@@ -231,11 +231,11 @@
             "id": 5337437,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-08T21:22:18Z",
-            "open_issues": 226,
+            "last_commit": "2026-11-10T00:49:23Z",
+            "open_issues": 231,
             "owner": "Growstuff",
             "repo": "growstuff",
-            "stars": 475,
+            "stars": 476,
             "topics": [
               "food",
               "gardening"
@@ -604,7 +604,7 @@
             "open_issues": 469,
             "owner": "Anduin2017",
             "repo": "HowToCook",
-            "stars": 103727,
+            "stars": 103764,
             "topics": [
               "chinese",
               "cookbook",
@@ -631,7 +631,7 @@
             "open_issues": 10,
             "owner": "hendricius",
             "repo": "the-bread-code",
-            "stars": 4144,
+            "stars": 4145,
             "topics": [
               "baking",
               "bread",
@@ -657,11 +657,11 @@
             "id": 164221729,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-01-13T10:50:02Z",
+            "last_commit": "2026-11-09T07:22:24Z",
             "open_issues": 4,
             "owner": "hendricius",
             "repo": "pizza-dough",
-            "stars": 3665,
+            "stars": 3666,
             "topics": [
               "baking",
               "cooking",
@@ -716,7 +716,7 @@
             "open_issues": 8,
             "owner": "aweijnitz",
             "repo": "recipe-el_fuego_viviente",
-            "stars": 1736,
+            "stars": 1737,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:20.737Z"
@@ -758,7 +758,7 @@
             "open_issues": 31,
             "owner": "clarklab",
             "repo": "chowdown",
-            "stars": 672,
+            "stars": 673,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:20.737Z"
@@ -779,7 +779,7 @@
             "open_issues": 5,
             "owner": "pale-shadow",
             "repo": "1337-Noms-The-Hacker-Cookbook",
-            "stars": 250,
+            "stars": 251,
             "topics": [
               "hackercookbook",
               "recipe"
@@ -1541,7 +1541,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T21:22:26.175Z",
+    "last_updated": "2026-11-10T00:51:58.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of food related projects on Github",
